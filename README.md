@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAuHau%2Ftoggl-cli.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FAuHau%2Ftoggl-cli?ref=badge_shield)
+
 Overview
 --------
 
@@ -99,3 +101,7 @@ Usage
             visits toggl.com
     
       DURATION = [[Hours:]Minutes:]Seconds
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAuHau%2Ftoggl-cli.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FAuHau%2Ftoggl-cli?ref=badge_large)
